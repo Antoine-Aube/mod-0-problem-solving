@@ -6,7 +6,7 @@
 # Given that we want to only output certain elements of an array, I will iterate over the array using the each metho
 # The each method will have an argument of 'word' within the block since we want to check every word within the array
 # I will check the length of the word within the array using the length method
-# I will then output the elements who's length is EXACTLY 4 characters using the comparison operator ==
+# I will use a conditional to check if the element's name == 4
 
 
 # **final solution**
